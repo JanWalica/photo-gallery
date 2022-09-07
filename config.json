@@ -10,5 +10,6 @@
   "css": "./custom.css",
   "footer": "&copy; Jan Walica",
   "usage-stats": false,
-  "watermark": "watermark.png"
+  "watermark": "watermark.png",
+  "watermark-position": "Repeat"
 }
