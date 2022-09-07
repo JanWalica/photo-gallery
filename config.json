@@ -8,7 +8,7 @@
   "photo-preview": "link",
   "cleanup": true,
   "theme": "flow",
-  "css": "./custom.css",
+  "theme-style": "./custom.css",
   "footer": "&copy; Jan Walica",
   "usage-stats": false,
   "watermark": "watermark.png",
