@@ -5,7 +5,7 @@
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "photo-download": "resize",
-  "photo-preview": "resize",
+  "photo-preview": "copy",
   "cleanup": true,
   "theme": "flow",
   "theme-style": "./custom.css",
