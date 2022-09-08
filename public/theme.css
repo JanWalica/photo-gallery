@@ -149,7 +149,20 @@ nav.pagination a {
   color: #3399ff;
 }
 /* Your custom styles goes here */
-body {
-  background: #4F4F4F;
+body, header {
+  background: #000;
+  color: #BBB;
+}
+
+h1 a, nav.breadcrumbs a {
+  color: #BBB;
+}
+
+footer, nav.pagination, nav.pagination a, #zip {
+  color: #999;
+}
+
+footer a {
+  color: #17baef;
 }
 
